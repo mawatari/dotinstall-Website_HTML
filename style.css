@@ -1,0 +1,17 @@
+
+#container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: red;
+}
+
+#main {
+    background-color: blue;
+}
+
+#footer {
+    background-color: green;
+}
