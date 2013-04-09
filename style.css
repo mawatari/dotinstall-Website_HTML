@@ -7,11 +7,13 @@
 
 #header {
     background-color: red;
+    margin-bottom: 20px;
 }
 
 #main {
     background-color: blue;
     overflow: hidden;
+    margin-top: 50px;
 }
 
 #footer {
