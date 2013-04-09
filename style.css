@@ -21,17 +21,16 @@
 #left {
     background-color: pink;
     float: left;
-    width: 30%;
+    width: 100px;
 }
 
 #center {
     background-color: orange;
-    float: left;
-    width: 40%;
+    margin-left: 100px;
 }
 
 #right {
     background-color: purple;
-    float: left;
-    width: 30%;
+    float: right;
+    width: 100px;
 }
