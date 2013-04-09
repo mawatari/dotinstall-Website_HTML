@@ -1,0 +1,31 @@
+#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#header {
+    margin-bottom: 15px;
+}
+
+#menu {
+    margin-bottom: 15px;
+}
+
+#main {
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+
+#contents {
+    float: left;
+    width: 400px;
+}
+
+#sidebar {
+    float: right;
+    width: 180px;
+}
+
+#footer {
+
+}
