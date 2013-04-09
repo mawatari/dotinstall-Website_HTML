@@ -20,11 +20,10 @@
 #left {
     background-color: pink;
     float: left;
-    width: 30%;
+    width: 200px;
 }
 
 #right {
     background-color: purple;
-    float: right;
-    width: 40%;
+    margin-left: 200px;
 }
