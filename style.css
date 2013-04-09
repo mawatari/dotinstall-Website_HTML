@@ -15,3 +15,15 @@
 #footer {
     background-color: green;
 }
+
+#left {
+    background-color: pink;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: purple;
+    float: right;
+    width: 70%;
+}
