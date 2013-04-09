@@ -1,6 +1,7 @@
 
 #container {
-    width: 70%;
+    /*width: 70%;*/
+    width: 500px;
     margin: 0 auto;
 }
 
@@ -25,5 +26,6 @@
 
 #right {
     background-color: purple;
-    margin-left: 200px;
+    float: right;
+    width: 300px;
 }
