@@ -10,6 +10,7 @@
 
 #main {
     background-color: blue;
+    overflow: hidden;
 }
 
 #footer {
@@ -25,5 +26,5 @@
 #right {
     background-color: purple;
     float: right;
-    width: 70%;
+    width: 40%;
 }
