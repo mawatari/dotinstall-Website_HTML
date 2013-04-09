@@ -26,11 +26,14 @@
 
 #center {
     background-color: orange;
-    margin-left: 100px;
+    float: left;
+    width: 280px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 #right {
     background-color: purple;
-    float: right;
+    float: left;
     width: 100px;
 }
