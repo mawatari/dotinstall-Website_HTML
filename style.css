@@ -5,6 +5,7 @@ html {
 
 body {
     height: 100%;
+    font-family: Verdana, Arial, sans-serif;
 }
 
 body > #container {
@@ -16,6 +17,7 @@ body > #container {
     height: 100%;
     width: 600px;
     margin: 0 auto;
+    padding: 0 10px;
     background-color: #ffffff;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
 }
