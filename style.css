@@ -29,6 +29,25 @@ body > #container {
 
 #menu {
     margin-bottom: 15px;
+    overflow: hidden;
+}
+#menu ul>li {
+    float: left;
+    width: 100px;
+    font-size: 13px;
+    text-align: center;
+    padding: 4px;
+    background-color: #cccccc;
+    margin-right: 10px;
+    border-radius: 4px;
+    text-shadow: 0 1px 0 #ffffff;
+}
+#menu ul>li>a {
+    text-decoration: none;
+    display: block;
+}
+#menu ul>li:hover {
+    background-color: #dddddd;
 }
 
 #main {
