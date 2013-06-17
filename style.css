@@ -51,6 +51,20 @@ ul.products > li > p {
     font-size: 13px;
 }
 
+div.sample {
+    float: right;
+    width: 66px;
+    margin-left: 10px;
+}
+div.sample > p {
+    font-size: 10px;
+}
+div.sample > img {
+    padding: 2px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+}
+
 #container {
     min-height: 100%;
     height: 100%;
