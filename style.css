@@ -76,6 +76,12 @@ div.sample > img {
     right: -5px;
 }
 
+ul.sub-menu > li {
+    background-image: url('list-icon.png');
+    background-repeat: no-repeat;
+    padding: 0 0 5px 23px;
+}
+
 #container {
     min-height: 100%;
     height: 100%;
