@@ -30,6 +30,26 @@ h3 {
 p {
     margin-bottom: 14px;
 }
+ul.products {
+    margin-bottom: 15px;
+}
+ul.products > li {
+    overflow: hidden;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px dotted #cccccc;
+}
+ul.products > li:last-child {
+    border-bottom: none;
+}
+ul.products > li > img {
+    float: left;
+    width: 60px;
+}
+ul.products > li > p {
+    margin-left: 70px;
+    font-size: 13px;
+}
 
 #container {
     min-height: 100%;
