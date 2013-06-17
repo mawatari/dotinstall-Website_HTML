@@ -55,6 +55,7 @@ div.sample {
     float: right;
     width: 66px;
     margin-left: 10px;
+    position: relative;
 }
 div.sample > p {
     font-size: 10px;
@@ -63,6 +64,16 @@ div.sample > img {
     padding: 2px;
     background-color: #ffffff;
     border: 1px solid #cccccc;
+}
+
+.badge  {
+    background-color: #EDAD0B;
+    color: #ffffff;
+    font-size: 10px;
+    padding: 2px 4px 3px;
+    position: absolute;
+    top: -5px;
+    right: -5px;
 }
 
 #container {
